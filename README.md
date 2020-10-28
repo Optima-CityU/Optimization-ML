@@ -8,7 +8,7 @@ Contributed by Xi Lin and Zhiyuan Yang.
 
 Template
 
-- **`(optional)abbr`** [title with link](https://arxiv.org/), main author **`(year)` ** **`[conference/journal]`**
+- **`(optional)abbr`** [title with link](https://arxiv.org/), main author **`(year)`** **`[conference/journal]`**
 
 A sample
 
@@ -18,7 +18,7 @@ A sample
 
 # Table of contents
 
-- [Multi Task Learning](#Multi Task Learning)
+- [Multi Task Learning](#Multi-Task-Learning)
 - [GAN](#GAN)
 
 
