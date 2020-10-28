@@ -19,7 +19,7 @@ A sample
 # Table of contents
 
 - [Multi Task Learning](#Multi-Task-Learning)
-- [GAN](#GAN)
+- [Generative Adversarial Nets](#GAN)
 
 
 
