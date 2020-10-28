@@ -25,7 +25,7 @@ A sample
 
 
 
-## Multi Task Learning
+## [Multi Task Learning](#Table-of-contents)
 
 ### Survey
 - [A Survey on Multi-Task Learning](https://arxiv.org/abs/1707.08114), Yu Zhang **`(2017)`**
@@ -39,6 +39,6 @@ A sample
 
 
 
-## GAN
+## [GAN]((#Table-of-contents))
 - **`EGAN`** [Evolutionary Generative Adversarial Networks](https://arxiv.org/abs/1803.00657), Chaoyue Wang **`(2019)`** **`[TEC]`**
 - [Multi-objective training of Generative Adversarial Networks with multiple discriminators](https://arxiv.org/abs/1901.08680), Isabela Albuquerque **`(2019)`** **`[ICML]`**
