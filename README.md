@@ -39,6 +39,6 @@ A sample
 
 
 
-## [Generative Adversarial Nets]((#Table-of-contents))
+## [Generative Adversarial Nets](#Table-of-contents)
 - **`EGAN`** [Evolutionary Generative Adversarial Networks](https://arxiv.org/abs/1803.00657), Chaoyue Wang **`(2019)`** **`[TEC]`**
 - [Multi-objective training of Generative Adversarial Networks with multiple discriminators](https://arxiv.org/abs/1901.08680), Isabela Albuquerque **`(2019)`** **`[ICML]`**
