@@ -40,5 +40,5 @@ A sample
 
 
 ## GAN
-- **`EGAN`** [Evolutionary Generative Adversarial Networks](https://arxiv.org/abs/1803.00657), Chaoyue Wang **`(2019)` ** **`[TEC]`**
+- **`EGAN`** [Evolutionary Generative Adversarial Networks](https://arxiv.org/abs/1803.00657), Chaoyue Wang **`(2019)`** **`[TEC]`**
 - [Multi-objective training of Generative Adversarial Networks with multiple discriminators](https://arxiv.org/abs/1901.08680), Isabela Albuquerque **`(2019)`** **`[ICML]`**
