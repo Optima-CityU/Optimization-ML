@@ -56,7 +56,9 @@ A sample
 
 
 ### Task Relation
+- **`Taskonomy`** [Taskonomy: Disentangling task transfer learning](https://arxiv.org/abs/1804.08328), Amir Zamir, Alexander Sax, William Shen, Leonidas Guibas, Jitendra Malik, and Silvio Savarese **`(2018)`** **`[CVPR2018]`**
 
+- [Which tasks should be learned together in multi-task learning?](https://arxiv.org/abs/1905.07553), Trevor Standley, Amir Zamir, Dawn Chen, Leonidas Guibas, Jitendra Malik, and Silvio Savarese **`(2020)`** **`[ICML2020]`**
 
 
 ## [Generative Adversarial Nets](#Table-of-contents)
