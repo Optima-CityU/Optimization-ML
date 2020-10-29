@@ -5,17 +5,6 @@
 Contributed by Xi Lin, Zhiyuan Yang, and Huiling Zhen.
 
 
-
-Template
-
-- **`(optional)abbr`** [title with link](https://arxiv.org/), main author **`(year)`** **`[conference/journal]`**
-
-A sample
-
-- **`Pareto MTL`** [Pareto Multi-Task Learning](https://arxiv.org/abs/1912.12854), Xi Lin **`(2019)`** **`[NeurIPS]`**
-
-
-
 # Table of contents
 
 - [Multi Task Learning](#Multi-Task-Learning)
