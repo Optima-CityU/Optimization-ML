@@ -32,6 +32,8 @@ A sample
 
 - [An Overview of Multi-Task Learning in Deep Neural Networks](https://arxiv.org/abs/1706.05098), Sebastian Ruder **`(2017)`**
 
+- [Multi-Task Learning for Dense Prediction Tasks: A Survey](https://arxiv.org/abs/2004.13379v2), Simon Vandenhende, Stamatios Georgoulis, Wouter Van Gansbeke, Marc Proesmans, Dengxin Dai, Luc Van Gool **`(2020)`**
+
 ### Adaptive Weights
 
 - **`Uncertainty`** [Multi-Task Learning using Uncertainty to Weigh Losses for Scene Geometry and Semantics](https://openaccess.thecvf.com/content_cvpr_2018/papers/Kendall_Multi-Task_Learning_Using_CVPR_2018_paper.pdf), Alex Kendall, Yarin Gal, and Roberto Cipolla **`(2018)`** **`[CVPR2018]`**
