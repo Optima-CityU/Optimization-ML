@@ -36,7 +36,11 @@ A sample
 
 - **`Uncertainty`** [Multi-Task Learning using Uncertainty to Weigh Losses for Scene Geometry and Semantics](https://openaccess.thecvf.com/content_cvpr_2018/papers/Kendall_Multi-Task_Learning_Using_CVPR_2018_paper.pdf), Alex Kendall, Yarin Gal, and Roberto Cipolla **`(2018)`** **`[CVPR2018]`**
 
-- **`Gradnorm`** [Gradnorm: Gradient Normalization for Adaptive Loss Balancing in Deep Multitask Networks.](http://proceedings.mlr.press/v80/chen18a/chen18a.pdf), Alex Kendall, Zhao Chen, Vijay Badrinarayanan, Chen-Yu Lee, and Andrew Rabinovich **`(2018)`** **`[ICML2018]`**
+- **`Gradnorm`** [Gradnorm: Gradient Normalization for Adaptive Loss Balancing in Deep Multitask Networks](http://proceedings.mlr.press/v80/chen18a/chen18a.pdf), Zhao Chen, Vijay Badrinarayanan, Chen-Yu Lee, and Andrew Rabinovich **`(2018)`** **`[ICML2018]`**
+
+- **`DWA`** [End-to-End Multi-Task Learning with Attention](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_End-To-End_Multi-Task_Learning_With_Attention_CVPR_2019_paper.pdf), Shikun Liu, Edward Johns, and Andrew J. Davison **`(2019)`** **`[CVPR2019]`**
+
+- **`PCGrad`** [Gradient Surgery for Multi-Task Learning](https://arxiv.org/abs/2001.06782), Tianhe Yu, Saurabh Kumar, Abhishek Gupta, Sergey Levine, Karol Hausman, and Chelsea Finn **`(2020)`** **`[NeurIPS2020]`**
 
 
 ### Models
