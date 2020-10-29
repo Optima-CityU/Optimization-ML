@@ -2,7 +2,7 @@
 
 > Optimization-ML, see for more detail notes on [Reading_Notes](./Reading_Notes.md)
 
-Contributed by Xi Lin and Zhiyuan Yang.
+Contributed by Xi Lin, Zhiyuan Yang, and Huiling Zhen.
 
 
 
