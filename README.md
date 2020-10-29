@@ -43,10 +43,12 @@ A sample
 - **`PCGrad`** [Gradient Surgery for Multi-Task Learning](https://arxiv.org/abs/2001.06782), Tianhe Yu, Saurabh Kumar, Abhishek Gupta, Sergey Levine, Karol Hausman, and Chelsea Finn **`(2020)`** **`[NeurIPS2020]`**
 
 
-### Models
-- **`MTL`** [Multi-Task Learning as Multi-Objective Optimization](https://arxiv.org/abs/1810.04650), Ozan Sener **`(2018)`** **`[NeurIPS]`**
+### Multiobjective Optimization
+- **`MGDA`** [Multi-Task Learning as Multi-Objective Optimization](https://arxiv.org/abs/1810.04650), Ozan Sener **`(2018)`** **`[NeurIPS]`**
 
 - **`Pareto MTL`** [Pareto Multi-Task Learning](https://arxiv.org/abs/1912.12854), Xi Lin **`(2019)`** **`[NeurIPS]`**
+
+### Task Relation
 
 
 
