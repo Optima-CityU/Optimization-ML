@@ -28,9 +28,13 @@ A sample
 ## [Multi Task Learning](#Table-of-contents)
 
 ### Survey
-- [A Survey on Multi-Task Learning](https://arxiv.org/abs/1707.08114), Yu Zhang **`(2017)`**
+- [A Survey on Multi-Task Learning](https://arxiv.org/abs/1707.08114), Yu Zhang and Qiang Yang **`(2017)`**
 
 - [An Overview of Multi-Task Learning in Deep Neural Networks](https://arxiv.org/abs/1706.05098), Sebastian Ruder **`(2017)`**
+
+### Adaptive Weights
+
+- [Multi-Task Learning using Uncertainty to Weigh Losses for Scene Geometry and Semantics](https://openaccess.thecvf.com/content_cvpr_2018/papers/Kendall_Multi-Task_Learning_Using_CVPR_2018_paper.pdf), Alex Kendall, Yarin Gal, and Roberto Cipolla **`(2018)`** **`[CVPR2018]`**
 
 ### Models
 - **`MTL`** [Multi-Task Learning as Multi-Objective Optimization](https://arxiv.org/abs/1810.04650), Ozan Sener **`(2018)`** **`[NeurIPS]`**
