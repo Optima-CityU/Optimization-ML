@@ -34,7 +34,10 @@ A sample
 
 ### Adaptive Weights
 
-- [Multi-Task Learning using Uncertainty to Weigh Losses for Scene Geometry and Semantics](https://openaccess.thecvf.com/content_cvpr_2018/papers/Kendall_Multi-Task_Learning_Using_CVPR_2018_paper.pdf), Alex Kendall, Yarin Gal, and Roberto Cipolla **`(2018)`** **`[CVPR2018]`**
+- **`Uncertainty`** [Multi-Task Learning using Uncertainty to Weigh Losses for Scene Geometry and Semantics](https://openaccess.thecvf.com/content_cvpr_2018/papers/Kendall_Multi-Task_Learning_Using_CVPR_2018_paper.pdf), Alex Kendall, Yarin Gal, and Roberto Cipolla **`(2018)`** **`[CVPR2018]`**
+
+- **`Gradnorm`** [Gradnorm: Gradient Normalization for Adaptive Loss Balancing in Deep Multitask Networks.](http://proceedings.mlr.press/v80/chen18a/chen18a.pdf), Alex Kendall, Zhao Chen, Vijay Badrinarayanan, Chen-Yu Lee, and Andrew Rabinovich **`(2018)`** **`[ICML2018]`**
+
 
 ### Models
 - **`MTL`** [Multi-Task Learning as Multi-Objective Optimization](https://arxiv.org/abs/1810.04650), Ozan Sener **`(2018)`** **`[NeurIPS]`**
