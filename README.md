@@ -44,9 +44,14 @@ A sample
 
 
 ### Multiobjective Optimization
-- **`MGDA`** [Multi-Task Learning as Multi-Objective Optimization](https://arxiv.org/abs/1810.04650), Ozan Sener **`(2018)`** **`[NeurIPS]`**
+- **`MGDA`** [Multi-Task Learning as Multi-Objective Optimization](https://arxiv.org/abs/1810.04650), Ozan Sener and Vladlen Koltun **`(2018)`** **`[NeurIPS2018]`**
 
-- **`Pareto MTL`** [Pareto Multi-Task Learning](https://arxiv.org/abs/1912.12854), Xi Lin **`(2019)`** **`[NeurIPS]`**
+- **`Pareto MTL`** [Pareto Multi-Task Learning](https://arxiv.org/abs/1912.12854), Xi Lin, Huiling Zhen, Zhenhua Li, Qingfu Zhang, and Sam Kwong **`(2019)`** **`[NeurIPS2019]`**
+
+- [Efficient Continuous Pareto Exploration in Multi-Task Learning](https://arxiv.org/abs/2006.16434), Pingchuan Ma, Tao Du, andWojciech Matusik **`(2020)`** **`[ICML2020]`**
+
+- **`EPO`** [Multi-Task Learning with User Preferences: Gradient Descent with Controlled Ascent in Pareto Optimization](https://proceedings.icml.cc/static/paper_files/icml/2020/3635-Paper.pdf), Debabrata Mahapatra and Vaibhav Rajan **`(2020)`** **`[ICML2020]`**
+
 
 ### Task Relation
 
