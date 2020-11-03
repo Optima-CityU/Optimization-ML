@@ -10,7 +10,7 @@ Contributed by Xi Lin, Zhiyuan Yang, and Huiling Zhen.
 - [Multi Task Learning](#Multi-Task-Learning)
 - [Generative Adversarial Nets](#Generative-Adversarial-Nets)
 
-
+  
 
 ## [Multi Task Learning](#Table-of-contents)
 
