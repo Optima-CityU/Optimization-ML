@@ -12,8 +12,6 @@ Contributed by Xi Lin, Zhiyuan Yang, and Huiling Zhen.
 
 
 
-
-
 ## [Multi Task Learning](#Table-of-contents)
 
 ### Survey
