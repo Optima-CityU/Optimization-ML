@@ -8,7 +8,6 @@ Contributed by Xi Lin, Zhiyuan Yang, and Huiling Zhen.
 # Table of contents
 
 - [Multi Task Learning](#Multi-Task-Learning)
-- [Generative Adversarial Nets](#Generative-Adversarial-Nets)
 
   
 
@@ -48,7 +47,3 @@ Contributed by Xi Lin, Zhiyuan Yang, and Huiling Zhen.
 
 - [Which tasks should be learned together in multi-task learning?](https://arxiv.org/abs/1905.07553), Trevor Standley, Amir Zamir, Dawn Chen, Leonidas Guibas, Jitendra Malik, and Silvio Savarese **`(2020)`** **`[ICML2020]`**
 
-
-## [Generative Adversarial Nets](#Table-of-contents)
-- **`EGAN`** [Evolutionary Generative Adversarial Networks](https://arxiv.org/abs/1803.00657), Chaoyue Wang **`(2019)`** **`[TEC]`**
-- [Multi-objective training of Generative Adversarial Networks with multiple discriminators](https://arxiv.org/abs/1901.08680), Isabela Albuquerque **`(2019)`** **`[ICML]`**
