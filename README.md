@@ -17,7 +17,7 @@ Contributed by Xi Lin, Zhiyuan Yang, and Huiling Zhen.
 
 - [A Survey on Multi-Task Learning](https://arxiv.org/abs/1707.08114), Yu Zhang and Qiang Yang **`(2017)`**
 - [An Overview of Multi-Task Learning in Deep Neural Networks](https://arxiv.org/abs/1706.05098), Sebastian Ruder **`(2017)`**
-- [Multi-Task Learning for Dense Prediction Tasks: A Survey](https://arxiv.org/abs/2004.13379v2), Simon Vandenhende **`(2020)`**
+- [Multi-Task Learning for Dense Prediction Tasks: A Survey](https://arxiv.org/abs/2004.13379v2), Simon Vandenhende, Stamatios Georgoulis, Wouter Van Gansbeke, Marc Proesmans, Dengxin Dai, Luc Van Gool **`(2020)`**
 - [Multi-Task Learning with Deep Neural Networks A Survey](https://arxiv.org/abs/2009.09796), Michael Crawshaw **`(2020)`**
 
 ### Adaptive Weights
